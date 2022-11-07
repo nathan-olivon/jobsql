@@ -1,0 +1,1 @@
+SELECT * FROM etudiants WHERE name LIKE 'T%';
